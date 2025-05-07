@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6807260f259244081df82ad4",
+    "roomNumber": 4,
+    "daily": 450000,
+    "firstHour": 100000,
+    "extraHour": 30000,
+    "__v": 0
+  },
+  {
+    "_id": "68072615259244081df82ad7",
+    "roomNumber": 6,
+    "daily": 500000,
+    "firstHour": 120000,
+    "extraHour": 30000,
+    "__v": 0
+  },
+  {
+    "_id": "6807262d259244081df82ade",
+    "roomNumber": 5,
+    "daily": 300000,
+    "firstHour": 100000,
+    "extraHour": 20000,
+    "__v": 0
+  },
+  {
+    "_id": "680c618a4595ea1eb1a53745",
+    "roomNumber": 2,
+    "daily": 350000,
+    "firstHour": 120000,
+    "extraHour": 20000,
+    "__v": 0,
+    "checkInDate": "2025-05-04T06:58:00.000Z"
+  },
+  {
+    "_id": "681189e83e8b5ce64b3f2a39",
+    "roomNumber": 201,
+    "daily": 300000,
+    "firstHour": 120000,
+    "extraHour": 30000,
+    "__v": 0
+  },
+  {
+    "_id": "6811ac423e8b5ce64b3f2c2a",
+    "roomNumber": 3,
+    "daily": 300000,
+    "firstHour": 100000,
+    "extraHour": 20000,
+    "__v": 0
+  },
+  {
+    "_id": "6811b6a43e8b5ce64b3f2c74",
+    "roomNumber": 203,
+    "daily": 400000,
+    "firstHour": 130000,
+    "extraHour": 20000,
+    "__v": 0
+  },
+  {
+    "_id": "681255fc3e4e4e73a5b72a47",
+    "roomNumber": 304,
+    "daily": 350000,
+    "firstHour": 120000,
+    "extraHour": 30000,
+    "__v": 0
+  }
+]

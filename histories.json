@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "680a44dbdc2ca1642af0de34",
+    "roomNumber": 2,
+    "checkInDate": "2025-04-24T12:28:00.000Z",
+    "checkOutDate": "2025-04-24T13:44:00.000Z",
+    "totalAmount": "140.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Phụ thu 1 giờ x 20.000 VNĐ</span><span>Thời gian ở thực: 1 giờ 16 phút</span>",
+    "createdAt": "2025-04-24T14:04:11.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "680adbf24595ea1eb1a53638",
+    "roomNumber": 5,
+    "checkInDate": "2025-04-24T10:17:00.000Z",
+    "checkOutDate": "2025-04-25T00:48:00.000Z",
+    "totalAmount": "300.000",
+    "description": "<span>Tính 1 ngày: 300.000 VNĐ</span><span>Thời gian ở thực: 14 giờ 31 phút</span>",
+    "createdAt": "2025-04-25T00:48:50.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "680c845c4595ea1eb1a53848",
+    "roomNumber": 3,
+    "checkInDate": "2025-04-24T16:24:00.000Z",
+    "checkOutDate": "2025-04-26T06:50:00.000Z",
+    "totalAmount": "620.000",
+    "description": "<span>2 ngày x 300.000 VNĐ</span><span>Phụ thu trả phòng muộn: 1 giờ x 20,000 VNĐ</span><span>Thời gian ở thực: 1 ngày 14 giờ 26 phút</span>",
+    "createdAt": "2025-04-26T06:59:40.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "680cbbb04595ea1eb1a5398b",
+    "roomNumber": 2,
+    "checkInDate": "2025-04-26T08:51:00.000Z",
+    "checkOutDate": "2025-04-26T10:26:00.000Z",
+    "totalAmount": "140.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Phụ thu 1 giờ x 20.000 VNĐ</span><span>Thời gian ở thực: 1 giờ 35 phút</span>",
+    "createdAt": "2025-04-26T10:55:44.786Z",
+    "__v": 0
+  },
+  {
+    "_id": "680f2558049c6d272677c98d",
+    "roomNumber": 2,
+    "checkInDate": "2025-04-28T05:58:00.000Z",
+    "checkOutDate": "2025-04-28T06:50:00.000Z",
+    "totalAmount": "120.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Thời gian ở thực: 0 giờ 52 phút</span>",
+    "createdAt": "2025-04-28T06:51:04.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "680f3d6f049c6d272677ca53",
+    "roomNumber": 5,
+    "checkInDate": "2025-04-28T06:12:00.000Z",
+    "checkOutDate": "2025-04-28T08:32:00.000Z",
+    "totalAmount": "140.000",
+    "description": "<span>Giờ đầu: 100.000 VNĐ</span><span>Phụ thu 2 giờ x 20.000 VNĐ</span><span>Thời gian ở thực: 2 giờ 20 phút</span>",
+    "createdAt": "2025-04-28T08:33:51.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "6811c4d83e8b5ce64b3f2c93",
+    "roomNumber": 3,
+    "checkInDate": "2025-04-30T04:51:00.000Z",
+    "checkOutDate": "2025-04-30T06:32:00.000Z",
+    "totalAmount": "150.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Phụ thu: 1 giờ x 20.000 VNĐ (Ngày lễ: 1 giờ) = 30.000 VNĐ</span><span>Thời gian ở thực: 1 giờ 41 phút</span>",
+    "createdAt": "2025-04-30T06:36:08.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "6811f36416553b48c56f80a1",
+    "roomNumber": 2,
+    "checkInDate": "2025-04-30T06:03:00.000Z",
+    "checkOutDate": "2025-04-30T09:53:00.000Z",
+    "totalAmount": "210.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Phụ thu: 3 giờ x 20.000 VNĐ (Ngày lễ: 3 giờ) = 90.000 VNĐ</span><span>Thời gian ở thực: 3 giờ 50 phút</span>",
+    "createdAt": "2025-04-30T09:54:44.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "6812c0493e4e4e73a5b72a6e",
+    "roomNumber": 2,
+    "checkInDate": "2025-04-30T12:18:00.000Z",
+    "checkOutDate": "2025-05-01T00:28:00.000Z",
+    "totalAmount": "550.000",
+    "description": "<span>Tính 1 ngày: 350.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 12 giờ 10 phút</span>",
+    "createdAt": "2025-05-01T00:28:57.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "6812c04e3e4e4e73a5b72a71",
+    "roomNumber": 3,
+    "checkInDate": "2025-04-30T12:18:00.000Z",
+    "checkOutDate": "2025-05-01T00:28:00.000Z",
+    "totalAmount": "500.000",
+    "description": "<span>Tính 1 ngày: 300.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 12 giờ 10 phút</span>",
+    "createdAt": "2025-05-01T00:29:02.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6814275a703e1c6718e6d7fb",
+    "roomNumber": 4,
+    "checkInDate": "2025-04-30T05:06:00.000Z",
+    "checkOutDate": "2025-05-02T02:00:00.000Z",
+    "totalAmount": "1.100.000",
+    "description": "<span>2 ngày x 450.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 1 ngày 20 giờ 54 phút</span>",
+    "createdAt": "2025-05-02T02:00:58.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "6814275f703e1c6718e6d7fe",
+    "roomNumber": 5,
+    "checkInDate": "2025-04-30T05:06:00.000Z",
+    "checkOutDate": "2025-05-02T02:01:00.000Z",
+    "totalAmount": "800.000",
+    "description": "<span>2 ngày x 300.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 1 ngày 20 giờ 55 phút</span>",
+    "createdAt": "2025-05-02T02:01:03.621Z",
+    "__v": 0
+  },
+  {
+    "_id": "68142761703e1c6718e6d801",
+    "roomNumber": 6,
+    "checkInDate": "2025-04-30T05:06:00.000Z",
+    "checkOutDate": "2025-05-02T02:01:00.000Z",
+    "totalAmount": "1.200.000",
+    "description": "<span>2 ngày x 500.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 1 ngày 20 giờ 55 phút</span>",
+    "createdAt": "2025-05-02T02:01:05.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "68142763703e1c6718e6d804",
+    "roomNumber": 201,
+    "checkInDate": "2025-04-30T02:13:00.000Z",
+    "checkOutDate": "2025-05-02T02:01:00.000Z",
+    "totalAmount": "890.000",
+    "description": "<span>Phụ thu nhận phòng sớm: 3 giờ x 30.000 VNĐ</span><span>2 ngày x 300.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 1 ngày 23 giờ 48 phút</span>",
+    "createdAt": "2025-05-02T02:01:07.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "68142780703e1c6718e6d808",
+    "roomNumber": 304,
+    "checkInDate": "2025-04-30T14:26:00.000Z",
+    "checkOutDate": "2025-05-02T02:01:00.000Z",
+    "totalAmount": "900.000",
+    "description": "<span>2 ngày x 350.000 VNĐ</span><span>Qua đêm ngày lễ Giải phóng miền Nam: +100,000 VNĐ</span><span>Qua đêm ngày lễ Quốc tế Lao động: +100,000 VNĐ</span><span>Tổng phụ thu lễ: +200.000 VNĐ</span><span>Thời gian ở thực: 1 ngày 11 giờ 35 phút</span>",
+    "createdAt": "2025-05-02T02:01:36.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "6814522c703e1c6718e6d81e",
+    "roomNumber": 203,
+    "checkInDate": "2025-05-02T01:01:00.000Z",
+    "checkOutDate": "2025-05-02T05:01:00.000Z",
+    "totalAmount": "190.000",
+    "description": "<span>Giờ đầu: 130.000 VNĐ</span><span>Phụ thu: 3 giờ x 20.000 VNĐ  = 60.000 VNĐ</span><span>Thời gian ở thực: 4 giờ 0 phút</span>",
+    "createdAt": "2025-05-02T05:03:40.047Z",
+    "__v": 0
+  },
+  {
+    "_id": "681473ae703e1c6718e6d839",
+    "roomNumber": 3,
+    "checkInDate": "2025-05-02T06:57:00.000Z",
+    "checkOutDate": "2025-05-02T07:26:00.000Z",
+    "totalAmount": "120.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Thời gian ở thực: 0 giờ 29 phút</span>",
+    "createdAt": "2025-05-02T07:26:38.469Z",
+    "__v": 0
+  },
+  {
+    "_id": "68148c78703e1c6718e6d877",
+    "roomNumber": 2,
+    "checkInDate": "2025-05-02T06:30:00.000Z",
+    "checkOutDate": "2025-05-02T09:11:00.000Z",
+    "totalAmount": "160.000",
+    "description": "<span>Giờ đầu: 120.000 VNĐ</span><span>Phụ thu: 2 giờ x 20.000 VNĐ  = 40.000 VNĐ</span><span>Thời gian ở thực: 2 giờ 41 phút</span>",
+    "createdAt": "2025-05-02T09:12:24.547Z",
+    "__v": 0
+  },
+  {
+    "_id": "68171257e7f0b462866e0f05",
+    "roomNumber": 5,
+    "checkInDate": "2025-05-02T05:04:00.000Z",
+    "checkOutDate": "2025-05-04T07:08:00.000Z",
+    "totalAmount": "640.000",
+    "description": "<span>2 ngày x 300.000 VNĐ</span><span>Phụ thu trả phòng muộn: 2 giờ x 20.000 VNĐ</span><span>Thời gian ở thực: 2 ngày 2 giờ 4 phút</span>",
+    "createdAt": "2025-05-04T07:08:07.182Z",
+    "__v": 0
+  }
+]
