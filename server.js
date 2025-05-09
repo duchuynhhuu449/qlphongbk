@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const path = require("path");
+const axios = require("axios");
 require("dotenv").config();
 
 const TelegramBot = require('node-telegram-bot-api');
@@ -71,6 +72,26 @@ app.get('/download-contract', (req, res) => {
       res.status(500).send('Lỗi khi tải tệp.');
     }
   });
+});
+
+
+app.post('/proxy', async (req, res) => {
+  const {data, url} = req.body;
+  try {
+    const response = await axios.post(
+      url, // Thay bằng URL của Web App
+      data,
+      {
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      }
+    );
+    res.json(response.data);
+  } catch (error) {
+    console.error('Proxy error:', error);
+    res.status(500).json({ error: 'Proxy error' });
+  }
 });
 
 app.listen(3000, () => console.log("Server chạy trên cổng 3000"));
